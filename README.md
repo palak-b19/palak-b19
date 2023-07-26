@@ -7,13 +7,9 @@ I am currently a sophomore at IIITD , exploring different fields like tech , des
 
 Skills: Python / C / JAVA / Photoshop
 
-- 🔭 I’m currently working on a summer project exploring the use of AI for legal services  
-- 🌱 I’m currently learning Python , C , Java 
-- 👯 I’m looking to collaborate on python and java projects 
-- 💬 Ask me about Music, Gaming , open source , coding , tech , social media growth 
-- 📫 How to reach me: palak22344@iiitd.ac.in 
-- 😄 Pronouns: she/her 
-- ⚡ Fun fact: Enigma - mysterious (cybersecurity) 
+
+I’m looking to collaborate on python and java projects 
+reach me: palak.bhardwaj331@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/palak-b19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/palak-bhardwaj-b28631246/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/palakb19/)  
