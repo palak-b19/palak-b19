@@ -2,9 +2,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-I am computer science and design undergrad at IIITD 
-I am currently a sophomore at IIITD , exploring different fields like tech , design and finance.
+I am currently a computer science and design sophomore at IIITD, exploring different fields like tech, design. finance and social science domains, I am inclined towards research and am a great tech enthusiast.
 ![github-header-image (3)](https://github.com/palak-b19/palak-b19/assets/119069053/369173c3-42a5-47c9-b37f-cad9deb2ac1c)
 
 
