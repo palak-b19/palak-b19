@@ -27,6 +27,4 @@ reach me: palak.bhardwaj331@gmail.com
 
 
 
-![Profile views](https://gpvc.arturio.dev/palak-b19)  
-
 
