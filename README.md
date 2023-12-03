@@ -15,6 +15,9 @@ I am currently a computer science and design sophomore at IIITD, exploring diffe
 
 Skills: Python / C / JAVA / Photoshop
 
+https://komarev.com/ghpvc/?username=palak-b19
+
+
 
 I’m looking to collaborate on python and java projects 
  I’m currently working on Voice recognition and trading bot with python libraries
