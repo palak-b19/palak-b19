@@ -4,8 +4,9 @@
 
 I am currently a computer science and design sophomore at IIITD, exploring different fields like tech, design. finance and social science domains, I am inclined towards research and am a great tech enthusiast.
 ![github-header-image (3)](https://github.com/palak-b19/palak-b19/assets/119069053/369173c3-42a5-47c9-b37f-cad9deb2ac1c)
- I’m currently working on Voice recognition and trading bot with python libraries
-![image](https://github.com/palak-b19/palak-b19/assets/119069053/a0261473-d0a6-4d58-a579-e5efb3ec5e94)
+
+![image](https://github.com/palak-b19/palak-b19/assets/119069053/85005c3b-10ed-4d35-b0a2-3022f6cc1017)
+
 
 
 
@@ -16,6 +17,7 @@ Skills: Python / C / JAVA / Photoshop
 
 
 I’m looking to collaborate on python and java projects 
+ I’m currently working on Voice recognition and trading bot with python libraries
 reach me: palak.bhardwaj331@gmail.com
 
 
