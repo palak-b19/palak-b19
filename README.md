@@ -17,15 +17,15 @@ I am currently a `computer science` and `design` sophomore at `IIITD`,an `unergr
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Skills: Python / C / JAVA / Photoshop
+# Skills
+Python / C / JAVA / Photoshop
 
 https://komarev.com/ghpvc/?username=palak-b19
 
+I’m looking to collaborate on python, java and C++ projects
 
-
-I’m looking to collaborate on python and java projects 
  I’m currently working on Voice recognition and trading bot with python libraries
-reach me: palak.bhardwaj331@gmail.com
+reach me : palak.bhardwaj331@gmail.com
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
