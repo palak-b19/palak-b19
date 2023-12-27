@@ -1,5 +1,15 @@
 # Hi there 👋, My name is Palak Bhardwaj
 
+# About
+
+### Tools and Frameworks:
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Eclipse](https://www.eclipse.org/)
+- [Jupyter Notebooks](https://jupyter.org/)
+- [MySQL](https://www.mysql.com/)
+- [Git](https://git-scm.com/)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 I am currently a `computer science` and `design` sophomore at `IIITD`,an `unergraduate researcher`, exploring different fields like `tech`, `design`, `finance` 
