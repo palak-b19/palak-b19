@@ -1,19 +1,14 @@
 # Hi there 👋, My name is Palak Bhardwaj
-
-# About
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 I am currently a `computer science` and `design` sophomore at `IIITD`,an `unergraduate researcher`, exploring different fields like `tech`, `design`, `finance` 
+I am interested in Machine Learning and Artificial Intelligence
 
 ![github-header-image (3)](https://github.com/palak-b19/palak-b19/assets/119069053/369173c3-42a5-47c9-b37f-cad9deb2ac1c)
 
 ![image](https://github.com/palak-b19/palak-b19/assets/119069053/85005c3b-10ed-4d35-b0a2-3022f6cc1017)
 
 ![image](https://github.com/palak-b19/palak-b19/assets/119069053/324b1010-a6ce-428e-b95c-eef81d9a0eda)
-
-
-
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
