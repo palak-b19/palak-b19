@@ -40,4 +40,4 @@
   <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 </p>
 
-Feel free to reach out for collaboration or just to say hi! 🌈✨
+
