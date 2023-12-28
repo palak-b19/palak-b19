@@ -26,6 +26,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=palak-b19&show_icons=true&locale=en" alt="palak-b19" />
 </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak-b19" alt="palak-b19" /></a> </p>
+
+
 ## 🚀 Badges:
 
 ![image](https://github.com/palak-b19/palak-b19/assets/119069053/85005c3b-10ed-4d35-b0a2-3022f6cc1017)
