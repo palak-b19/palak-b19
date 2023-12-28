@@ -3,7 +3,7 @@
 
 I am currently a `computer science` and `design` sophomore at `IIITD`,an `unergraduate researcher`, exploring different fields like `tech`, `design`, `finance` 
 
-<h3 align="center">A passionate developer /h3>
+<h3 align="center"> I am currently a `computer science` and `design` sophomore at `IIITD`, </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
