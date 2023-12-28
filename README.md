@@ -31,6 +31,8 @@ Artificial Intelligence and Machine Learning
 
 ## 🚀 Badges:
 
+![image](https://github.com/palak-b19/palak-b19/assets/119069053/85005c3b-10ed-4d35-b0a2-3022f6cc1017)
+
 <p align="center">
   <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
   <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
