@@ -2,6 +2,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 `Interests` : Artifical Intelligence and Machine Learning
+
+![github-header-image (3)](https://github.com/palak-b19/palak-b19/assets/119069053/369173c3-42a5-47c9-b37f-cad9deb2ac1c)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/palak-bhardwaj-b28631246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-bhardwaj-b28631246" height="30" width="40" /></a>
