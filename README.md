@@ -22,8 +22,9 @@
 
 ## 📊 GitHub Stats:
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=palak-b19&show_icons=true&locale=en&layout=compact" alt="palak-b19" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palak-b19&show_icons=true&locale=en" alt="palak-b19" />
+</p>
 
 ## 🚀 Badges:
 
