@@ -16,11 +16,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palak-b19&show_icons=true&locale=en" alt="palak-b19" /></p>
 
-![github-header-image (3)](https://github.com/palak-b19/palak-b19/assets/119069053/369173c3-42a5-47c9-b37f-cad9deb2ac1c)
 
 ![image](https://github.com/palak-b19/palak-b19/assets/119069053/85005c3b-10ed-4d35-b0a2-3022f6cc1017)
-
-
 
 
 
@@ -28,9 +25,6 @@
 
 
 # Skills
-Python / C / JAVA / Photoshop
-
-https://komarev.com/ghpvc/?username=palak-b19
 
 I’m looking to collaborate on python, java and C++ projects
 
