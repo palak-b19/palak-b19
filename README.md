@@ -27,9 +27,6 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palak-b19" alt="palak-b19" /></a> </p>
-
-
 
 ## 🚀 Badges:
 
