@@ -2,7 +2,7 @@
 # 👋 My name is Palak Bhardwaj
 
 
-👩‍💻Computer Science Sophomore at IIIT, Delhi
+👩‍💻Computer Science Sophomore at IIIT, Delhi.
 🎨 Hobbies: Graphic Design and Community Work! 🚀
 
 ## 💻 Tech Stack:
