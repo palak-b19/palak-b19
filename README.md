@@ -1,4 +1,4 @@
-## About me
+## 🌟 About me
 
 
 ![GitHub Header](https://github.com/palak-b19/palak-b19/assets/119069053/369173c3-42a5-47c9-b37f-cad9deb2ac1c)
