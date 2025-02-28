@@ -1,5 +1,5 @@
 ## 🌟 HELLO!
-
+Hi there, I am a Computer Science Junior at IIIT Delhi. 
 
 ## Tech Stack:
 
