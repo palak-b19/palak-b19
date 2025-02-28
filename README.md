@@ -1,4 +1,4 @@
-## 🌟 HELLO!
+## HELLO!
 Hi there, I am a Computer Science Junior at IIIT Delhi. 
 
 ## Tech Stack:
@@ -8,7 +8,7 @@ Hi there, I am a Computer Science Junior at IIIT Delhi.
 ## Interests: 
 `Artificial Intelligence`  `Machine Learning` `Graphic Design` `Competitive programming`
 
-## 🌐 Connect:
+## Connect:
 
 <p align="left">
   <a href="https://linkedin.com/in/palak-bhardwaj-b28631246" target="blank">
@@ -17,7 +17,7 @@ Hi there, I am a Computer Science Junior at IIIT Delhi.
 </p>
 
 
-## 📊 Stats:
+## Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=palak-b19&show_icons=true&locale=en" alt="palak-b19" />
@@ -25,7 +25,7 @@ Hi there, I am a Computer Science Junior at IIIT Delhi.
 
 
 
-## 🚀 Badges:
+## Badges:
 
 ![image](https://github.com/palak-b19/palak-b19/assets/119069053/85005c3b-10ed-4d35-b0a2-3022f6cc1017)
 
