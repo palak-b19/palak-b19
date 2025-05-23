@@ -1,5 +1,5 @@
 ## HELLO!
-Hi there, I am a Computer Science Junior at IIIT Delhi. 
+Hi there, I am a Computer Science Senior at IIIT Delhi. 
 
 ## Tech Stack:
 
