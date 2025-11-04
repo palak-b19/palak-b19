@@ -7,3 +7,5 @@ This is -
 
 
 <Insert Laptop and Cold Coffee?>
+
+I am a final year student at IIIT Delhi, currently exploring opportunities in AI Research.
